@@ -1,0 +1,12 @@
+{
+  "name": "parcel-lightningcss-docker-arm-issue",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@fontsource/poppins": "^4.5.10",
+    "parcel": "^2.8.0"
+  }
+}
